@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\FlowerShop\bin\Debug\FlowerShop.exe.config
+C:\Users\Admin\Desktop\FlowerShop\bin\Debug\FlowerShop.exe
+C:\Users\Admin\Desktop\FlowerShop\bin\Debug\FlowerShop.pdb
+C:\Users\Admin\Desktop\FlowerShop\obj\Debug\FlowerShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FlowerShop\obj\Debug\FlowerShop.Form1.resources
+C:\Users\Admin\Desktop\FlowerShop\obj\Debug\FlowerShop.Properties.Resources.resources
+C:\Users\Admin\Desktop\FlowerShop\obj\Debug\FlowerShop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\FlowerShop\obj\Debug\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FlowerShop\obj\Debug\FlowerShop.exe
+C:\Users\Admin\Desktop\FlowerShop\obj\Debug\FlowerShop.pdb
